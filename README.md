@@ -1,7 +1,7 @@
 ## Bem-vindo(a) 😁
 
  <div>
-   <a href="https://github.com/joao-marrcos">
+   <a href="https://github.com/joao-marcos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-marrcos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-marrcos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
